@@ -19,9 +19,9 @@ My workflow is grounded in transparency and reproducibility. I use Git and Snake
 
 Here are a few highlights of my work and experiments:
 
-- **[Microbiome Shiny App](#)** – A user-friendly tool for exploring 16S amplicon data, including taxonomy filtering and diversity plots.
-- **[RNA-seq Pipeline](#)** – A modular Snakemake pipeline with built-in QC, differential expression, and interactive reporting via R Markdown.
-- **[CRISPR Screen Explorer](#)** – Interactive R Shiny dashboard for visualizing sgRNA distributions and hit calling results.
+- **[VariantViewR](https://baldridgeapps.wustl.edu/VirusVariantViewR/)** – RShiny application for viewing output from the VirusVariantViewR Snakemake workflow, a pipeline for the analysis of viral variant information (specifically, murine norovirus CR6 and CW3). This tool was inteneded to give researchers an easy way to view data that is normally spread across many files.
+- **[ColorPickR](#)** – Interactive tool for picking colors for bar plots
+- **[A Simple R Tutorial](#)** – A Simple tutorial on customizing the label axes in ggplot
 <!-- - *(Add links or summaries here as you go — even placeholder pages are fine)* -->
 
 ---

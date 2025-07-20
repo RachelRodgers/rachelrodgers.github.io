@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
-title: Rachel's test homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Rachel's Portfolio
+description: Bioinformaticist portfolio - research, projects, and tutorials
+url: https://rachelrodgers.github.io/
+baseurl ""
+
+remote_theme: pages-theme/minimal@v0.2.0
+
+# Social links (optional: used by some themes or in footer)
+author:
+  name: Rachel
+  email: rachel.rodgers@wustl.edu
+  github: RachelRodgers
+  linkedin: rachel-rodgers-a73a4121
+
