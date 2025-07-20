@@ -3,7 +3,7 @@ description: Bioinformaticist portfolio - research, projects, and tutorials
 url: https://rachelrodgers.github.io/
 baseurl: ""
 
-remote_theme: pages-theme/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Social links (optional: used by some themes or in footer)
 author:
