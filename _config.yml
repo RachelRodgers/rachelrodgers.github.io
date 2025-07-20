@@ -1,7 +1,7 @@
 title: Rachel's Portfolio
 description: Bioinformaticist portfolio - research, projects, and tutorials
 url: https://rachelrodgers.github.io/
-baseurl ""
+baseurl: ""
 
 remote_theme: pages-theme/minimal@v0.2.0
 
